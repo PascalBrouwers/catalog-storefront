@@ -2,8 +2,8 @@ This document will describe options for local development, current agreements an
 
 ### DevBox options
 - Magento Cloud DevBox https://github.com/magento/catalog-storefront/blob/develop/dev/docs/development/Magento-Cloud-DevBox-for-Local-Development.md
-- Unofficial DebBox (recommended for now) https://github.com/magento/catalog-storefront/blob/develop/dev/docs/development/Andrii-Lugovyi-DevBox-for-Local-Development.md
-- Local DebBox https://github.com/magento/catalog-storefront/blob/develop/dev/docs/development/Custom-DevBox-for-Local-Development.md
+- Unofficial DevBox (recommended for now) https://github.com/magento/catalog-storefront/blob/develop/dev/docs/development/Andrii-Lugovyi-DevBox-for-Local-Development.md
+- Local DevBox https://github.com/magento/catalog-storefront/blob/develop/dev/docs/development/Custom-DevBox-for-Local-Development.md
 
 
 ### Agreements
